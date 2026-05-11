@@ -46,7 +46,7 @@ Buscamos responder perguntas estratégicas sobre o catálogo:
 
 | **Fase 1** | Estruturação do GitHub e README | Todos |  Concluído |
 
-| **Fase 2** | Limpeza e Preparação do Dataset | Felipe | Em espera |
+| **Fase 2** | Limpeza e Preparação do Dataset | Felipe | Concluído |
 
 | **Fase 3** | Análise Técnica e Gráficos | Mariucha e Andrey | Em espera |
 
