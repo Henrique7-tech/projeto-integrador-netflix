@@ -77,3 +77,32 @@ Pretendemos apresentar os seguintes indicadores:
 * **Histograma:** Frequência do tempo de espera (Janela de Lançamento).
 
 * **Gráfico de Rosca:** Proporção entre produções de temporada única e séries longevas.
+
+---
+
+## Insights do Projeto Integrador: Catálogo Netflix
+**1. Parte: Henrique (Análise de Perfil de Público - Rating)**
+
+Esta análise foca na segmentação demográfica do catálogo com base nas classificações indicativas.
+
+* **Dominância do Público Adulto:** O catálogo apresenta uma concentração massiva em produções TV-MA (mais de 3.200 títulos), o que posiciona a Netflix estrategicamente como uma plataforma voltada para o consumo de jovens adultos e adultos.
+
+* **Distribuição por Faixa Etária:** A segunda maior categoria é a TV-14, indicando que a maior parte do esforço de licenciamento e produção original visa conteúdos com temáticas mais complexas ou maduras.
+
+* **Gap de Conteúdo Infantil:** Existe uma queda acentuada no volume de títulos para as classificações TV-Y, TV-G e G. Estrategicamente, isso sugere que o perfil de público da plataforma é menos focado em nichos estritamente infantis em comparação ao volume total de títulos disponíveis.
+
+**2. Parte: Mariucha (Tendências e Distribuição de Duração)**
+
+A Mariucha explorou a evolução temporal e a densidade da duração das obras.
+
+* **Histórico de Longa Duração:** Identificou-se um período de produções extensas por volta dos anos 60, com médias que chegavam a 200 minutos.
+
+* **Padronização Contemporânea:** Atualmente, há uma convergência para o formato de 100 minutos, refletindo uma adaptação às janelas de atenção do espectador moderno.
+
+* **Volume de Produção:** O histograma confirma que a grande massa do catálogo está situada entre 80 e 120 minutos, definindo o padrão de "filme comercial" da plataforma.
+
+**3. Parte: Andrey (Análise de Gêneros/Países)**
+
+**[ESPAÇO RESERVADO]**
+
+Aguardando as visualizações do Andrey para integrar os insights sobre categorias e distribuição geográfica.
