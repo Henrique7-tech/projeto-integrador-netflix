@@ -101,8 +101,12 @@ A Mariucha explorou a evolução temporal e a densidade da duração das obras.
 
 * **Volume de Produção:** O histograma confirma que a grande massa do catálogo está situada entre 80 e 120 minutos, definindo o padrão de "filme comercial" da plataforma.
 
-**3. Parte: Andrey (Análise de Gêneros/Países)**
+**3. Parte: Andrey (Volumetria e Retenção de Séries)**
 
-**[ESPAÇO RESERVADO]**
+Esta análise foca no ciclo de vida das séries e na capacidade de retenção de títulos a longo prazo dentro da plataforma.
 
-Aguardando as visualizações do Andrey para integrar os insights sobre categorias e distribuição geográfica.
+* **Alto Índice de Descontinuação:** O catálogo apresenta uma concentração massiva de séries com "Temporada Única", representando 67.0% do total (1.793 títulos). Isso evidencia uma estratégia de ampla experimentação de mercado, onde muitos títulos são lançados para testar a recepção do público.
+
+* **Funil de Renovação Estrito:** Apenas 33.0% das produções alcançam o status de "Séries Longevas" (883 títulos), sobrevivendo à barreira da primeira temporada. Estrategicamente, manter produções por múltiplos anos exige investimentos crescentes, justificando o rigor na seleção para renovações.
+
+* **Modelo Baseado em Novidades:** A distribuição confirma que o modelo de negócios da Netflix prioriza a rotatividade constante e o hype de novos lançamentos em vez da manutenção prolongada de histórias extensas.
